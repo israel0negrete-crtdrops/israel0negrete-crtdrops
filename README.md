@@ -14,6 +14,7 @@ from a client.
 
 | Repository | What it measures | Note |
 |---|---|---|
+| [latency-percentiles](https://github.com/israel0negrete-crtdrops/latency-percentiles) | p50, p95 and p99 per phase, with timeouts treated as censored, over 90,604 real inferences on a Pi 5 and an N100 | [The average that never happened](https://crtdrops.mx/notas/the-average-that-never-happened.html) |
 | [ghosts-in-the-frame](https://github.com/israel0negrete-crtdrops/ghosts-in-the-frame) | 2001 window filters in C against two vision models running locally on an N100, looking for the same disk in haunted frames | [Ghosts in the frame](https://crtdrops.mx/notas/ghosts-in-the-frame.html) |
 | [night-shift](https://github.com/israel0negrete-crtdrops/night-shift) | A local Gemma model reads the lab's logs at night and writes a 7 a.m. report; where it makes things up | [Night shift](https://crtdrops.mx/notas/night-shift.html) |
 
