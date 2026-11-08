@@ -14,6 +14,7 @@ from a client.
 
 | Repository | What it measures | Note |
 |---|---|---|
+| [parked-truck-gps-drift](https://github.com/israel0negrete-crtdrops/parked-truck-gps-drift) | One night of a parked truck: the phantom kilometers of GPS drift, the speed clip that hides a tow truck, and anchoring with several signals | [The parked truck that kept racking up kilometers](https://crtdrops.mx/notas/the-parked-truck.html) |
 | [geofence-on-the-fly](https://github.com/israel0negrete-crtdrops/geofence-on-the-fly) | A simulated week of a truck against geofences: false alerts and missed entries for five ways of deciding inside or outside | [The geofence on the fly](https://crtdrops.mx/notas/the-geofence-on-the-fly.html) |
 | [latency-percentiles](https://github.com/israel0negrete-crtdrops/latency-percentiles) | p50, p95 and p99 per phase, with timeouts treated as censored, over 90,604 real inferences on a Pi 5 and an N100 | [The average that never happened](https://crtdrops.mx/notas/the-average-that-never-happened.html) |
 | [ghosts-in-the-frame](https://github.com/israel0negrete-crtdrops/ghosts-in-the-frame) | 2001 window filters in C against two vision models running locally on an N100, looking for the same disk in haunted frames | [Ghosts in the frame](https://crtdrops.mx/notas/ghosts-in-the-frame.html) |
