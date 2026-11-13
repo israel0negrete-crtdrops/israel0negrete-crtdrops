@@ -14,6 +14,7 @@ from a client.
 
 | Repository | What it measures | Note |
 |---|---|---|
+| [electraton-2001](https://github.com/israel0negrete-crtdrops/electraton-2001) | A 2001 energy controller for an electric competition vehicle, rebuilt in C99 against a simulator on a Raspberry Pi 5: soft start, a 60 A limit, lasting versus finishing first | [The Electratón runs again](https://crtdrops.mx/notas/the-electraton-runs-again.html) |
 | [parked-truck-gps-drift](https://github.com/israel0negrete-crtdrops/parked-truck-gps-drift) | One night of a parked truck: the phantom kilometers of GPS drift, the speed clip that hides a tow truck, and anchoring with several signals | [The parked truck that kept racking up kilometers](https://crtdrops.mx/notas/the-parked-truck.html) |
 | [geofence-on-the-fly](https://github.com/israel0negrete-crtdrops/geofence-on-the-fly) | A simulated week of a truck against geofences: false alerts and missed entries for five ways of deciding inside or outside | [The geofence on the fly](https://crtdrops.mx/notas/the-geofence-on-the-fly.html) |
 | [latency-percentiles](https://github.com/israel0negrete-crtdrops/latency-percentiles) | p50, p95 and p99 per phase, with timeouts treated as censored, over 90,604 real inferences on a Pi 5 and an N100 | [The average that never happened](https://crtdrops.mx/notas/the-average-that-never-happened.html) |
